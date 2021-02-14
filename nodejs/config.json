@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "root",
+    "password": "samsung54",
+    "database": "dev",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "samsung54",
+    "database": "prod",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+ "staging": {
+    "username": "root",
+    "password": "samsung54",
+    "database": "stag",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+
+}
+
